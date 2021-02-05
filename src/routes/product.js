@@ -1,6 +1,6 @@
 const express = require("express");
 //const {  } = require('../controller/category');
-const {
+const { 
   requireSignin,
   adminMiddleware,
   uploadS3,
